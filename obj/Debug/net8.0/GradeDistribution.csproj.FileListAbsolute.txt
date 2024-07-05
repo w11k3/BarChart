@@ -1,0 +1,14 @@
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\bin\Debug\net8.0\GradeDistribution.exe
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\bin\Debug\net8.0\GradeDistribution.deps.json
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\bin\Debug\net8.0\GradeDistribution.runtimeconfig.json
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\bin\Debug\net8.0\GradeDistribution.dll
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\bin\Debug\net8.0\GradeDistribution.pdb
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\GradeDistribution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\GradeDistribution.AssemblyInfoInputs.cache
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\GradeDistribution.AssemblyInfo.cs
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\GradeDistribution.csproj.CoreCompileInputs.cache
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\GradeDistribution.dll
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\refint\GradeDistribution.dll
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\GradeDistribution.pdb
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\GradeDistribution.genruntimeconfig.cache
+C:\Users\paulo\Downloads\Willian\GradeDistribution\GradeDistribution\obj\Debug\net8.0\ref\GradeDistribution.dll
